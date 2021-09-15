@@ -58,3 +58,7 @@ Follow the web forms from left to right.
 3. Confirm registration code sent to email
 4. Authenticate the user and receive access token
 
+
+
+### Additional help
+https://stackoverflow.com/questions/43809413/aws-cognito-login-error-on-angularjs
